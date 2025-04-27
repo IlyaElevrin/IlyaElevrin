@@ -21,3 +21,4 @@ You can find out more about me from my SNS.
 · Math  <img src="emojis/math-graph-of-sine-wave.png" alt="neural" width="20" height="20" /> <br>
 · Mapping in OSM <img src="emojis/maps-old.png" alt="neural" width="20" height="20" /> <br>
 · Nanchi <img src="emojis/logo.png" alt="neural" width="20" height="20" /> <br>
+· Article writing <img src="emojis/wikipedia.svg.png" alt="neural" width="20" height="20" /> <br>
