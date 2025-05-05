@@ -15,7 +15,6 @@ You can find out more about me from my SNS.
 </div>
 
 ### Hobbies: <img src="emojis/black-paint-brush.png" alt="neural" width="20" height="20" />
-· Books <img src="emojis/books.png" alt="neural" width="20" height="20" /> <br>
 · Development and opensource <img src="emojis/generate-an-laptop-with-code-on-the-screen.png" alt="neural" width="20" height="20" /> <br>
 · Painting and drawing <img src="emojis/painting.png" alt="neural" width="20" height="20" /> <br>
 · Math  <img src="emojis/math-graph-of-sine-wave.png" alt="neural" width="20" height="20" /> <br>
