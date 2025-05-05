@@ -20,4 +20,4 @@ You can find out more about me from my SNS.
 · Painting and drawing <img src="emojis/painting.png" alt="neural" width="20" height="20" /> <br>
 · Math  <img src="emojis/math-graph-of-sine-wave.png" alt="neural" width="20" height="20" /> <br>
 · Mapping in OSM <img src="emojis/maps-old.png" alt="neural" width="20" height="20" /> <br>
-· Article writing <img src="emojis/wikipedia.svg.png" alt="neural" width="20" height="20" /> <br>
+· Writing wikipedia and hubr articles <img src="emojis/wikipedia.svg.png" alt="neural" width="20" height="20" /> <br>
