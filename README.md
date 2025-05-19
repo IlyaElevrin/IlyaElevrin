@@ -1,9 +1,9 @@
-<h1 align="center"><img src="emojis/welcome-mat.png" alt="neural" width="20" height="20" /> Welcome to my github</h1> 
+<h1 align="center"> Welcome to my github</h1> 
 
-### A little bit about me: <img src="emojis/chart-with-data-.png" alt="neural" width="20" height="20" />
+### A little bit about me:
 I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects.
 
-### Social resources and communication: <img src="emojis/twitter-logo-a-social-media-application.png" alt="neural" width="20" height="20" />
+### Social resources and communication:
 You can find out more about me from my SNS.
 
 <div> 
@@ -15,8 +15,8 @@ You can find out more about me from my SNS.
 </div>
 
 ### Hobbies: <img src="emojis/black-paint-brush.png" alt="neural" width="20" height="20" />
-· Development and opensource <img src="emojis/generate-an-laptop-with-code-on-the-screen.png" alt="neural" width="20" height="20" /> <br>
-· Painting and drawing <img src="emojis/painting.png" alt="neural" width="20" height="20" /> <br>
-· Math  <img src="emojis/math-graph-of-sine-wave.png" alt="neural" width="20" height="20" /> <br>
-· Mapping in OSM <img src="emojis/maps-old.png" alt="neural" width="20" height="20" /> <br>
-· Writing wikipedia and habr articles <img src="emojis/wikipedia.svg.png" alt="neural" width="20" height="20" /> <br>
+· Development and opensource  <br>
+· Painting and drawing <br>
+· Math <br>
+· Mapping in OSM <br>
+· Writing wikipedia and habr articles <br>
