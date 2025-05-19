@@ -14,7 +14,7 @@ You can find out more about me from my SNS.
 <a href = "https://habr.com/ru/users/izxshevtsov/"><img src="https://img.shields.io/badge/-%D0%A5%D0%B0%D0%B1%D1%80-%23007bff?style=for-the-badge&logo=habr&logoColor=white" target="_blank"></a>
 </div>
 
-### Hobbies: <img src="emojis/black-paint-brush.png" alt="neural" width="20" height="20" />
+### Hobbies: 
 · Development and opensource  <br>
 · Painting and drawing <br>
 · Math <br>
