@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my github</h1> 
+<h1 align="center"> Welcome</h1> 
 
 ### A little bit about me:
 I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects.
