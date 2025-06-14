@@ -13,11 +13,3 @@ You can find out more about me from my SNS.
 <a href = "https://www.kaggle.com/ilyachugynovgmailcom"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
 <a href = "https://habr.com/ru/users/izxshevtsov/"><img src="https://img.shields.io/badge/-%D0%A5%D0%B0%D0%B1%D1%80-%23007bff?style=for-the-badge&logo=habr&logoColor=white" target="_blank"></a>
 </div>
-
-### Hobbies: 
-· Development and opensource  <br>
-· Painting and drawing <br>
-· Math <br>
-· Mapping in OSM <br>
-· Writing wikipedia articles <br>
-· Hiking
