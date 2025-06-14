@@ -19,4 +19,5 @@ You can find out more about me from my SNS.
 · Painting and drawing <br>
 · Math <br>
 · Mapping in OSM <br>
-· Writing wikipedia and habr articles <br>
+· Writing wikipedia articles <br>
+· Hiking
