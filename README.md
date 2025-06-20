@@ -11,4 +11,5 @@ I am Ilya, I am actively involved in open source development, I write open sourc
 ---
 
 
-![stat_prof](https://github-readme-stats.vercel.app/api?username=IlyaElevrin&show_icons=true&theme=dark&icon_color=987a7a&title_color=fff3f3) ![chibi-anime](gifs/sad-cute.gif)
+<!--![stat_prof](https://github-readme-stats.vercel.app/api?username=IlyaElevrin&show_icons=true&theme=dark&icon_color=987a7a&title_color=fff3f3)--> 
+![chibi-anime](gifs/sad-cute.gif)
