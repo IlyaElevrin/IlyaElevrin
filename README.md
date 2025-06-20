@@ -11,7 +11,7 @@ I am Ilya, I am actively involved in open source development, I write open sourc
 
 ---
 
-<div class="tenor-gif-embed" data-postid="25771580" data-share-method="host" data-aspect-ratio="1.16364" data-width="100%"><a href="https://tenor.com/view/sad-cute-menhera-gif-25771580">Sad Cute Sticker</a>from <a href="https://tenor.com/search/sad-stickers">Sad Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/ru/view/sad-cute-menhera-gif-25771580
 
 ---
 
