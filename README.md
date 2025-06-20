@@ -2,7 +2,6 @@
 
 I am Ilya, I am actively involved in open source development, I write open source projects in the field of development, ML and data analytics.
 
-## Contacts
 [![Gmail](https://img.shields.io/badge/-Gmail-rgb(0,0,0)?style=for-the-badge)](mailto:ichugynov@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-rgb(152,122,122)?style=for-the-badge)](https://t.me/Ilyaqwertyqw)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-rgb(255,243,243)?style=for-the-badge)](https://www.kaggle.com/ilyachugynovgmailcom)
@@ -13,7 +12,5 @@ I am Ilya, I am actively involved in open source development, I write open sourc
 
 ![chibi-anime](gifs/sad-cute.gif)
 
----
 
-### Profile Stat
 ![stat_prof](https://github-readme-stats.vercel.app/api?username=IlyaElevrin&show_icons=true&theme=dark&icon_color=987a7a&title_color=fff3f3)
