@@ -11,7 +11,7 @@ I am Ilya, I am actively involved in open source development, I write open sourc
 
 ---
 
-https://tenor.com/ru/view/sad-cute-menhera-gif-25771580
+[!chibi-anime](gifs/sad-cute.gif)
 
 ---
 
