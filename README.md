@@ -11,7 +11,7 @@ I am Ilya, I am actively involved in open source development, I write open sourc
 
 ---
 
-[!chibi-anime](gifs/sad-cute.gif)
+![chibi-anime](gifs/sad-cute.gif)
 
 ---
 
