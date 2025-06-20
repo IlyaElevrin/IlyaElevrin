@@ -1,15 +1,19 @@
-<h1 align="center"> Welcome</h1> 
+# Hello World
 
-### A little bit about me:
-I am involved in Data science (machine learning and data analytics). I am actively developing various ML and DA projects.
+I am Ilya, I am actively involved in open source development, I write open source projects in the field of development, ML and data analytics.
 
-### Social resources and communication:
-You can find out more about me from my SNS.
+## Контакты
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail)](mailto:ichugynov@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Ilyaqwertyqw)
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your_username)-->
+[![Kaggle](https://img.shields.io/badge/-Kaggle-%23F0E450?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ilyachugynovgmailcom)
+<!--[![Хабр](https://img.shields.io/badge/-Хабр-%23167DF0?style=for-the-badge&logo=habr)](https://habr.com/ru/users/your_username)-->
 
-<div> 
-<a href="https://t.me/Ilyaqwertyqw" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<a href = "mailto:ichugynov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/ilya-churkenberg/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://www.kaggle.com/ilyachugynovgmailcom"><img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
-<a href = "https://habr.com/ru/users/izxshevtsov/"><img src="https://img.shields.io/badge/-%D0%A5%D0%B0%D0%B1%D1%80-%23007bff?style=for-the-badge&logo=habr&logoColor=white" target="_blank"></a>
-</div>
+---
+
+<div class="tenor-gif-embed" data-postid="25771580" data-share-method="host" data-aspect-ratio="1.16364" data-width="100%"><a href="https://tenor.com/view/sad-cute-menhera-gif-25771580">Sad Cute Sticker</a>from <a href="https://tenor.com/search/sad-stickers">Sad Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+---
+
+### Статистика профиля
+![Статистика профиля](https://github-readme-stats.vercel.app/api?username=IlyaElevrin&show_icons=true&theme=dark)
