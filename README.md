@@ -8,7 +8,6 @@ I am Ilya, I am actively involved in open source development, I write open sourc
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your_username)-->
 <!--[![Хабр](https://img.shields.io/badge/-Хабр-%23167DF0?style=for-the-badge&logo=habr)](https://habr.com/ru/users/your_username)-->
 
----
 
 
 <!--![stat_prof](https://github-readme-stats.vercel.app/api?username=IlyaElevrin&show_icons=true&theme=dark&icon_color=987a7a&title_color=fff3f3)--> 
