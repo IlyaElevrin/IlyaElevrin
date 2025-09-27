@@ -2,9 +2,7 @@
 
 I am engaged in the art of DataScience (ML\MLOps\DA)
 
-<video controls autoplay muted width="800">
-  <source src="gifs/rocklee-rock-lee-fight-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
-</video>
+[](gifs/rocklee-rock-lee-fight.gif)
 
 [![Habr](https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white&labelColor=65A3BE)](https://habr.com/ru/users/izxshevtsov/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://www.kaggle.com/ilyachugynovgmailcom)
