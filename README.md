@@ -1,8 +1,4 @@
-### Welcome
-
-I am engaged in the art of DataScience (ML\MLOps\DA)
-
-![](gifs/rocklee-rock-lee-fight.gif) 
+Who am I
 
 [![Telegram](https://img.shields.io/badge/Telegram-93C47D?style=for-the-badge&logo=telegram&logoColor=white&labelColor=93C47D)](https://t.me/Ilyachugynov)
 [![Habr](https://img.shields.io/badge/Habr-6AA84F?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/izxshevtsov/)
